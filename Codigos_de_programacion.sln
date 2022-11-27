@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codigos_de_programacion", "Codigos_de_programacion\Codigos_de_programacion.csproj", "{207EC22B-CB75-44D1-AF1F-510EE6055617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{E5F2108F-6B24-41CD-B98C-7A995F1319CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207EC22B-CB75-44D1-AF1F-510EE6055617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207EC22B-CB75-44D1-AF1F-510EE6055617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207EC22B-CB75-44D1-AF1F-510EE6055617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207EC22B-CB75-44D1-AF1F-510EE6055617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F2108F-6B24-41CD-B98C-7A995F1319CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F2108F-6B24-41CD-B98C-7A995F1319CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F2108F-6B24-41CD-B98C-7A995F1319CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F2108F-6B24-41CD-B98C-7A995F1319CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8000F2BE-640B-422E-9B1A-B9DB0C1E4019}
+	EndGlobalSection
+EndGlobal
