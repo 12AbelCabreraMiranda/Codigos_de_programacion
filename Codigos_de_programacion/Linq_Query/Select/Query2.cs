@@ -5,12 +5,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/// <summary>
+/// Realizar una consulta de empleados y el total de sus ventas realizados, que contenga las siguientes propiedades: 
+/// id, Nombre, Apellido, Genero, Total Venta, Cantidad Venta
+/// 
+/// Utilizar subconsultas en las propieadades necesarias
+/// </summary>
+/// 
 namespace Codigos_de_programacion.Linq_Query.Select
 {
     public class Query2
     {
-        public static void ConsultarEmpleados()
+        public static void ObtenerEmpleadosYsusVentas()
         {
             using var context = new AdventureWorksDW2019Context();
             var listaEmpleados = (from e in context.DimEmployees
