@@ -23,8 +23,6 @@
   <ItemGroup>
     <Folder Include="Expresiones_Lambda\GroupBy\" />
     <Folder Include="Expresiones_Lambda\Join\" />
-    <Folder Include="Linq_Query\GroupBy\" />
-    <Folder Include="Linq_Query\Join\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
