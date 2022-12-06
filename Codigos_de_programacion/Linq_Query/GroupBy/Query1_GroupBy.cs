@@ -30,7 +30,7 @@ namespace Codigos_de_programacion.Linq_Query.GroupBy
             Console.WriteLine("\nCONSULTA UTILIZANDO LINQ\n");
 
             foreach (var item in listaEmpleados)
-            {
+            {                
                 Console.WriteLine(
                     " NOMBRE: " + item.Nombre + " " + item.Apellido + " GENERO: " + item.Genero +
                     " TOTAL VENTA: Q." + item.TotalVenta +

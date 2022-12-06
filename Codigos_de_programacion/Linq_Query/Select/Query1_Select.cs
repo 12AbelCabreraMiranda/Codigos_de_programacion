@@ -8,7 +8,7 @@ using DataModels.Models;
 
 namespace Codigos_de_programacion.Linq_Query.Select
 {
-    public class Query1
+    public class Query1_Select
     {
        
         public static void ConsultarEmpleados()

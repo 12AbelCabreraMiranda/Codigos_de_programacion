@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 /// 
 namespace Codigos_de_programacion.Linq_Query.Select
 {
-    public class Query2
+    public class Query2_Select
     {
         public static void ObtenerEmpleadosYsusVentas()
         {

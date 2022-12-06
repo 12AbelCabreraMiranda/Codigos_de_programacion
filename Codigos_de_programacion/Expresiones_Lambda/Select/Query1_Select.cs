@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Codigos_de_programacion.Expresiones_Lambda.Select
 {
-    public class Query1
+    public class Query1_Select
     {
         public static void ConsultarEmpleados()
         {

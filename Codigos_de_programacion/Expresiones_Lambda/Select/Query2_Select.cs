@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Codigos_de_programacion.Expresiones_Lambda.Select
 {
-    public class Query2
+    public class Query2_Select
     {
         public static void ObtenerEmpleadosYsusVentas()
         {
